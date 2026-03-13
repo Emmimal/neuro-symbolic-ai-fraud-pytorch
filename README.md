@@ -40,9 +40,9 @@ The model was never told that V14 was important. It received 30 anonymized PCA f
 
 | Rule Quality Metric | Result | Target |
 |---|---|---|
-| Fidelity (rules agree with MLP) | 0.993 ± 0.001 | > 0.85 ✅ |
-| Coverage (fraud caught by ≥1 rule) | 0.811 ± 0.031 | > 0.70 ✅ |
-| Simplicity (unique features/rule, active seeds) | 5–8 conditions | < 8 ✅ |
+| Fidelity (rules agree with MLP) | 0.993 ± 0.001 | > 0.85 |
+| Coverage (fraud caught by ≥1 rule) | 0.811 ± 0.031 | > 0.70 |
+| Simplicity (unique features/rule, active seeds) | 5–8 conditions | < 8 |
 
 ---
 
