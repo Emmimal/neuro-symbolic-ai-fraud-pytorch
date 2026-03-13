@@ -1,7 +1,7 @@
 # neuro-symbolic-ai-fraud-pytorch
 Neural network that learns its own fraud rules via differentiable rule induction — no hand-coded rules required. PyTorch implementation with temperature annealing.
 
-# Neuro-Symbolic Fraud Detection: Rule Learner
+# Neuro-Symbolic AI Fraud Detection: Rule Learner
 
 > A neural network that writes its own fraud rules — no hand-coding required.
 
