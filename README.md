@@ -5,7 +5,7 @@ Neural network that learns its own fraud rules via differentiable rule induction
 
 > A neural network that writes its own fraud rules — no hand-coding required.
 
-**Article:** [How a Neural Network Learned Its Own Fraud Rules]([https://towardsdatascience.com/](https://towardsdatascience.com/how-a-neural-network-learned-its-own-fraud-rules-a-neuro-symbolic-ai-experiment/))   
+**Article:** [How a Neural Network Learned Its Own Fraud Rules]([https://towardsdatascience.com/](https://towardsdatascience.com/how-a-neural-network-learned-its-own-fraud-rules-a-neuro-symbolic-ai-experiment/])   
 **Series Part 1:** [Hybrid Neuro-Symbolic Fraud Detection: Guiding Neural Networks with Domain Rules](https://towardsdatascience.com/hybrid-neuro-symbolic-fraud-detection-guiding-neural-networks-with-domain-rules/)  
 **Dataset:** [Kaggle Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) · [CC-0 Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
 
